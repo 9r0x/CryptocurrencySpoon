@@ -1,0 +1,41 @@
+[
+  {
+    "Constant" : [
+
+    ],
+    "submodules" : [
+
+    ],
+    "Function" : [
+
+    ],
+    "Variable" : [
+
+    ],
+    "stripped_doc" : [
+
+    ],
+    "Deprecated" : [
+
+    ],
+    "type" : "Module",
+    "desc" : "A Cryptocurrency stat displayer",
+    "Constructor" : [
+
+    ],
+    "doc" : "A Cryptocurrency stat displayer\n\nDownload:  [https:\/\/github.com\/Grox-Ni\/CryptocurrencySpoon\/archive\/master.zip](https:\/\/github.com\/Grox-Ni\/CryptocurrencySpoon\/archive\/master.zip)",
+    "Method" : [
+
+    ],
+    "Command" : [
+
+    ],
+    "Field" : [
+
+    ],
+    "items" : [
+
+    ],
+    "name" : "Cryptocurrency"
+  }
+]
